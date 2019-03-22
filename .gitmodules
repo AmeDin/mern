@@ -1,0 +1,3 @@
+[submodule "mernclient"]
+	path = mernclient
+	url = https://github.com/AmeDin/mernclient.git
